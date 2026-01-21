@@ -9,21 +9,15 @@
 - 테스트 대상: Sauce Labs Demo
 
 ## 테스트 범위
-- 로그인 기능 (5개 케이스)
-- 장바구니 기능 (5개 케이스)
-- 결제 프로세스 (5개 케이스)
-- **총 15개 테스트 케이스**
+- 로그인 기능/5개 (chekout.spec.js)
+- 장바구니 기능/5개 (login.spec.js)
+- 결제 프로세스/5개 (shopping.spec.js)
+- 총 15개 테스트 케이스
 
-## 실행 방법
-```bash
-npm install
-npx playwright install
-npm test
-```
 
 ## 실행 결과
 - ✅ 15 tests passed
-- ⏱️ Duration: 45 seconds
+- ⏱️ Duration: 1.8 Minutes
 
 ## 주요 성과
 - 전체 E2E 플로우 자동화
