@@ -4,6 +4,7 @@
 이커머스 사이트의 핵심 기능을 Playwright로 자동화한 프로젝트입니다. (학습용)
 
 ## 기술 스택
+- VS Code
 - Playwright v1.40
 - JavaScript (Node.js)
 - 테스트 대상: Sauce Labs Demo
